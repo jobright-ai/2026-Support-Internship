@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Sarasota](https://jobright.ai/jobs/info/6a48a9eec2d11a6a46674e31?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Jul 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a314e47e7b7d514a3bd2cf6?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | Jul 03 |
 | **[Vertafore](http://www.vertafore.com)** | **[Intern - Documentation Specialist](https://jobright.ai/jobs/info/6a42a23da5e15b10683799d3?utm_campaign=1058&utm_source=git)** | Remote, Canada | Remote | Jul 03 |
 | **[Vicente's Supermarket](https://www.vicentessupermarket.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6a3492601232144fb1560a53?utm_campaign=1058&utm_source=git)** | Brockton, MA | On Site | Jul 03 |
@@ -73,29 +74,29 @@ For a complete list, click the following sortable link below:
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Analyst, Endpoint Management (Intern - Summer 2026)](https://jobright.ai/jobs/info/6a47ec04971cd25b06f9306e?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 03 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/6a0f3d3772b52f7225f3bf94?utm_campaign=1058&utm_source=git)** | Baie-St-Paul, Quebec, Canada | On Site | Jul 03 |
 | ↳ | **[Intern, Guest Service](https://jobright.ai/jobs/info/6a0f1817619335383fb2919a?utm_campaign=1058&utm_source=git)** | Baie-Saint-Paul, Quebec, Canada | On Site | Jul 03 |
-| **[Baptist Memorial Health Care](https://www.baptistonline.org/locations/restorative-care)** | **[Intern-Nurse II- CVSD](https://jobright.ai/jobs/info/695befc6f1f8465b79f1f2bf?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Jul 03 |
-| ↳ | **[Intern-Nurse II 3 South Med Surg](https://jobright.ai/jobs/info/69c450d9d5a1016e98db7317?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Jul 03 |
+| **[Baptist Memorial Health Care](https://www.baptistonline.org/locations/restorative-care)** | **[Intern-Nurse II 3 South Med Surg](https://jobright.ai/jobs/info/69c450d9d5a1016e98db7317?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Jul 03 |
+| ↳ | **[Intern-Nurse II- CVSD](https://jobright.ai/jobs/info/695befc6f1f8465b79f1f2bf?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Jul 03 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Summer Internship](https://jobright.ai/jobs/info/6a2b2175d3ec8317fe1474b3?utm_campaign=1058&utm_source=git)** | San Antonio, TX, US | On Site | Jul 03 |
-| **[Walgreens](https://www.walgreens.com/pharmacy/infusion_services)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a2271ba597131741415ed84?utm_campaign=1058&utm_source=git)** | 7301 RADIO RD,NAPLES,FL,34104 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a28977f883c0d3be65430ec?utm_campaign=1058&utm_source=git)** | 120 W RAILROAD ST,LONG BEACH,MS,39560-04634-09545-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea8d554b0e12c05873f9?utm_campaign=1058&utm_source=git)** | 6906 UNIVERSITY BLVD,MOON TOWNSHIP,PA,15108-04248-10917-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern-scholarships available](https://jobright.ai/jobs/info/69d43989cfdc6132f9458fe3?utm_campaign=1058&utm_source=git)** | 3720 S COLLEGE RD,WILMINGTON,NC,28412-02004-01560-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0980b23b54ed42d74dc848?utm_campaign=1058&utm_source=git)** | 3495 BAYSIDE LAKES BLVD SE,PALM BAY,FL,32909 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea80dc845f4be5bda4d4?utm_campaign=1058&utm_source=git)** | 20260 ROUTE 19,CRANBERRY TOWNSHIP,PA,16066 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07be0d403fc339507e7c64?utm_campaign=1058&utm_source=git)** | 40 N MERIDIAN RD,YOUNGSTOWN,OH,44509 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a06dfbeb897ee41d28311c7?utm_campaign=1058&utm_source=git)** | 5917 BASELINE RD,LITTLE ROCK,AR,72209 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3fe4aa9dd7f954cafe75f5?utm_campaign=1058&utm_source=git)** | 102 2ND ST,CORALVILLE,IA,52241-02606-05977-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a08d835403fc339507effb1?utm_campaign=1058&utm_source=git)** | 2605 S 171ST ST,OMAHA,NE,68130 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087b4d93203636875767?utm_campaign=1058&utm_source=git)** | 6201 SALTSBURG RD,PITTSBURGH,PA,15235 | On Site | Jul 03 |
+| **[Walgreens](https://www.walgreens.com/pharmacy/infusion_services)** | **[Pharmacy Intern-scholarships available](https://jobright.ai/jobs/info/69d43989cfdc6132f9458fe3?utm_campaign=1058&utm_source=git)** | 3720 S COLLEGE RD,WILMINGTON,NC,28412-02004-01560-S | On Site | Jul 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3fe4a41afc66714d3c9545?utm_campaign=1058&utm_source=git)** | 956 N MAIN ST,WOODRUFF,SC,29388-09023-17385-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0aeee7a235d749afa80698?utm_campaign=1058&utm_source=git)** | 828 ROYAL PKWY,STE 101,NASHVILLE,TN,37214 | On Site | Jul 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c776b4d932036368787c9?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072-01528-18004-S | On Site | Jul 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1c67739111f771d1a14e40?utm_campaign=1058&utm_source=git)** | 12201 MONTWOOD DR,EL PASO,TX,79938 | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3fe4a03bfa967791ebf997?utm_campaign=1058&utm_source=git)** | 361 BERGEN ST,NEWARK,NJ,07103-02201-12064-S | On Site | Jul 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07be0ba203b1052e43e599?utm_campaign=1058&utm_source=git)** | 35279 VINE ST,WILLOWICK,OH,44095-03140-13058-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a28977f883c0d3be65430ec?utm_campaign=1058&utm_source=git)** | 120 W RAILROAD ST,LONG BEACH,MS,39560-04634-09545-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0980b23b54ed42d74dc848?utm_campaign=1058&utm_source=git)** | 3495 BAYSIDE LAKES BLVD SE,PALM BAY,FL,32909 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea80dc845f4be5bda4d4?utm_campaign=1058&utm_source=git)** | 20260 ROUTE 19,CRANBERRY TOWNSHIP,PA,16066 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a08d835403fc339507effb1?utm_campaign=1058&utm_source=git)** | 2605 S 171ST ST,OMAHA,NE,68130 | On Site | Jul 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3c7c0e882f121f56a34d4b?utm_campaign=1058&utm_source=git)** | 9184 E VALENCIA RD,TUCSON,AZ,85747-04902-07041-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3fe4a03bfa967791ebf997?utm_campaign=1058&utm_source=git)** | 361 BERGEN ST,NEWARK,NJ,07103-02201-12064-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0aeee7a235d749afa80698?utm_campaign=1058&utm_source=git)** | 828 ROYAL PKWY,STE 101,NASHVILLE,TN,37214 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea8d554b0e12c05873f9?utm_campaign=1058&utm_source=git)** | 6906 UNIVERSITY BLVD,MOON TOWNSHIP,PA,15108-04248-10917-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087b4d93203636875767?utm_campaign=1058&utm_source=git)** | 6201 SALTSBURG RD,PITTSBURGH,PA,15235 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a06dfbeb897ee41d28311c7?utm_campaign=1058&utm_source=git)** | 5917 BASELINE RD,LITTLE ROCK,AR,72209 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a3fe4aa9dd7f954cafe75f5?utm_campaign=1058&utm_source=git)** | 102 2ND ST,CORALVILLE,IA,52241-02606-05977-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07be0d403fc339507e7c64?utm_campaign=1058&utm_source=git)** | 40 N MERIDIAN RD,YOUNGSTOWN,OH,44509 | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07be0ba203b1052e43e599?utm_campaign=1058&utm_source=git)** | 35279 VINE ST,WILLOWICK,OH,44095-03140-13058-S | On Site | Jul 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a2271ba597131741415ed84?utm_campaign=1058&utm_source=git)** | 7301 RADIO RD,NAPLES,FL,34104 | On Site | Jul 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[IT Analyst, Intern](https://jobright.ai/jobs/info/6a3d7126d261407de980075e?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 03 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/6a2b32d91de59e0682a88854?utm_campaign=1058&utm_source=git)** | Columbia, MO (Distribution Center) | On Site | Jul 03 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69e94a03e0cd471b2f13c556?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Jul 03 |
@@ -132,16 +133,16 @@ For a complete list, click the following sortable link below:
 | **[Meritus Health](http://www.meritushealth.com)** | **[Respiratory Practitioner - Internship](https://jobright.ai/jobs/info/6a465cebc2d11a6a4666df3b?utm_campaign=1058&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Jul 02 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern PRN](https://jobright.ai/jobs/info/69e09637c17d1d525433545d?utm_campaign=1058&utm_source=git)** | Rogers, Arkansas, 72758-1452 | On Site | Jul 02 |
 | ↳ | **[Advanced Radiology Intern](https://jobright.ai/jobs/info/69e0eaeaff71e82d604b401a?utm_campaign=1058&utm_source=git)** | Carthage, Missouri, 64836-7402 | On Site | Jul 02 |
-| **[Walgreens](https://www.walgreens.com/pharmacy/infusion_services)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a175a1e1430333075cd05d9?utm_campaign=1058&utm_source=git)** | 1700 2ND AVE SW,CULLMAN,AL,35055 | On Site | Jul 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0b25a5a235d749afa820f7?utm_campaign=1058&utm_source=git)** | 7930 WADSWORTH BLVD,ARVADA,CO,80003 | On Site | Jul 02 |
+| **[Walgreens](https://www.walgreens.com/pharmacy/infusion_services)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0b25a5a235d749afa820f7?utm_campaign=1058&utm_source=git)** | 7930 WADSWORTH BLVD,ARVADA,CO,80003 | On Site | Jul 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a175a1e1430333075cd05d9?utm_campaign=1058&utm_source=git)** | 1700 2ND AVE SW,CULLMAN,AL,35055 | On Site | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Customer Service (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817c4f64ba41dcb5399d?utm_campaign=1058&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | ↳ | **[On-site Fall 2026 Internship - Business & Data Support (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681763dbab558e29a7618?utm_campaign=1058&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | **[Walgreens](https://www.walgreens.com/pharmacy/infusion_services)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a4529d7971cd25b06f87f0a?utm_campaign=1058&utm_source=git)** | 7113 CERMAK RD,BERWYN,IL,60402-02103-11154-S | On Site | Jul 02 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6a4677a60dd56c76cc2f97a6?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL, US | On Site | Jul 02 |
 | **[Highway West Vacations](https://www.highwaywestvacations.com)** | **[Intern](https://jobright.ai/jobs/info/6a29d68c1de59e0682a81ef7?utm_campaign=1058&utm_source=git)** | Buellton, CA | On Site | Jul 02 |
-| **[ND Paper](https://us.ndpaper.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a29738c0c4972328e7e3739?utm_campaign=1058&utm_source=git)** | Rumford, ME, US | On Site | Jul 02 |
+| **[ND Paper](https://us.ndpaper.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a2973890c4972328e7e3737?utm_campaign=1058&utm_source=git)** | Sturtevant, WI, US | On Site | Jul 02 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a2973870c4972328e7e3736?utm_campaign=1058&utm_source=git)** | Wisconsin Rapids, WI, US | On Site | Jul 02 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a2973890c4972328e7e3737?utm_campaign=1058&utm_source=git)** | Sturtevant, WI, US | On Site | Jul 02 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a29738c0c4972328e7e3739?utm_campaign=1058&utm_source=git)** | Rumford, ME, US | On Site | Jul 02 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f1418c8feca91f1491f5f1?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Jul 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, IT Support](https://jobright.ai/jobs/info/6a43e8abb156014e414bab6d?utm_campaign=1058&utm_source=git)** | Canada, Ontario, Toronto | On Site | Jul 02 |
 | **[The Bartolotta Restaurants](https://www.bartolottas.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a4655220dd56c76cc2f80a7?utm_campaign=1058&utm_source=git)** | Milwaukee,WI,US | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Comprehensive Refugee Service Intern - UNPAID](https://jobright.ai/jobs/info/6a461bea3dbab558e29a3cfe?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, USA | Hybrid | Jul 02 |
 | **[King Law Offices](https://kinglawoffices.com)** | **[IT Intern/Hybrid](https://jobright.ai/jobs/info/6a460d43076271587529f558?utm_campaign=1058&utm_source=git)** | Forest City, NC 28043, USA | Hybrid | Jul 02 |
 | **[Stax Payments](https://staxpayments.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a455e8d3dbab558e29a10f4?utm_campaign=1058&utm_source=git)** | Orlando,FL,US | On Site | Jul 01 |
-| **[Ahern](http://www.jfahern.com)** | **[Intern - IT HelpDesk Job Details / J. F. Ahern Co.](https://jobright.ai/jobs/info/6a45b6e8076271587529de54?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
