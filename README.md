@@ -8,6 +8,8 @@
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1058&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
+🇨🇦 Canada-specific companion resource: [Hanzilla Jobs support, customer success, and student jobs](https://jobs.hanzilla.co/business/) lists daily-updated Canadian internships, co-ops, new-grad, junior, and entry-level roles across support, business, operations, tech, finance, engineering, sciences, arts, and related fields.
+
 ---
 
 <div align="center">
