@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Technical Support Services (Spring 2027)](https://jobright.ai/jobs/info/6ae9b66632411b3e5a2e1c48?utm_campaign=1058&utm_source=git)** | Greensboro, NC, United States | On Site | Nov 03 |
 | **[Maximus](http://www.maximus.com/)** | **[2027 Summer Intern- Desktop Support Intern (Onsite, Bloomington MN)](https://jobright.ai/jobs/info/6ae9aef7a291a1db4de24ea4?utm_campaign=1058&utm_source=git)** | Bloomington, MN, United States | On Site | Nov 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6ae99103b4cb239414bd8ae7?utm_campaign=1058&utm_source=git)** | Post Falls, ID, United States | On Site | Nov 02 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer PATCO Transit Services Intern - (2027) - $20.00/hr.](https://jobright.ai/jobs/info/6ae98de8b4cb239414bd8a38?utm_campaign=1058&utm_source=git)** | Lindenwold, NJ, United States | On Site | Nov 02 |
@@ -71,10 +72,11 @@ For a complete list, click the following sortable link below:
 | **[The Riverside Company](http://riversidecompany.com)** | **[2027 Summer Internship, Technology](https://jobright.ai/jobs/info/6ae9426c2b0b1eb5805b1ee0?utm_campaign=1058&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[PACCAR](http://www.paccar.com/)** | **[2027 Summer Internship: Truck Systems & Software Support](https://jobright.ai/jobs/info/6ae941f173d24ab055c56737?utm_campaign=1058&utm_source=git)** | Denton, TX, United States | On Site | Nov 02 |
 | ↳ | **[2027 Summer Internship: Field Service Liaison](https://jobright.ai/jobs/info/6ae941f143826864b0fb8760?utm_campaign=1058&utm_source=git)** | Denton, TX, United States | On Site | Nov 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6b0498c00ae03109f81537?utm_campaign=1058&utm_source=git)** | Cordele, GA, United States | On Site | Nov 02 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a705517b85a7d35acd1bb8b?utm_campaign=1058&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a705517b85a7d35acd1bb8b?utm_campaign=1058&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 02 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6b0498c00ae03109f81537?utm_campaign=1058&utm_source=git)** | Cordele, GA, United States | On Site | Nov 02 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6ab30f6a8254c44790e590c7?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 02 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6ab3490e1e4847ddae918e44?utm_campaign=1058&utm_source=git)** | Henderson, NV, United States | On Site | Nov 02 |
+| **[Associated Medical Professionals of NY](https://www.ampofny.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6ae218ed829a3bada1600f96?utm_campaign=1058&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 02 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6ae92ff5a2a252e21942d6dc?utm_campaign=1058&utm_source=git)** | Oxnard, CA, United States | Hybrid | Nov 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern](https://jobright.ai/jobs/info/6ae8e51903f4a1104b257848?utm_campaign=1058&utm_source=git)** | Hollywood, FL, United States | On Site | Nov 02 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6ae92ca2a2a252e21942d524?utm_campaign=1058&utm_source=git)** | Santa Ana, CA, United States | Hybrid | Nov 02 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Beacon Health System](http://beaconhealthsystem.org/)** | **[Medical Assistant Intern I KAL](https://jobright.ai/jobs/info/6ae25723829a3bada1603c50?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI, United States | On Site | Nov 01 |
 | ↳ | **[Medical Assistant Intern](https://jobright.ai/jobs/info/6ae3e0d2eab1f96730977cdf?utm_campaign=1058&utm_source=git)** | Granger, IN, United States | On Site | Nov 01 |
 | **[Terex Corporation](http://www.terex.com)** | **[Intern - High School](https://jobright.ai/jobs/info/6ae93bac32411b3e5a2df983?utm_campaign=1058&utm_source=git)** | Snyder, Nebraska, United States | On Site | Nov 01 |
-| **[Lindsay Corporation](http://lindsay.com)** | **[Irrigation Product Support Specialist Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8fac46c51033758f45054?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | Hybrid | Nov 01 |
-| ↳ | **[Global FieldWise System, Support Intern](https://jobright.ai/jobs/info/6ae8fac7061d6d7ff3d7f476?utm_campaign=1058&utm_source=git)** | Norfolk, NE, United States | On Site | Nov 01 |
+| **[Lindsay Corporation](http://lindsay.com)** | **[Global FieldWise System, Support Intern](https://jobright.ai/jobs/info/6ae8fac7061d6d7ff3d7f476?utm_campaign=1058&utm_source=git)** | Norfolk, NE, United States | On Site | Nov 01 |
+| ↳ | **[Irrigation Product Support Specialist Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8fac46c51033758f45054?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | Hybrid | Nov 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Intern - Technical Writer / Data Analytics Analyst](https://jobright.ai/jobs/info/6ae8d60503f4a1104b256d5c?utm_campaign=1058&utm_source=git)** | Bossier City, LA, United States | Hybrid | Nov 01 |
-| **[First Southern National Bank](https://www.fsnb.net)** | **[Branch Intern](https://jobright.ai/jobs/info/6ae91346777c336eb6d696bf?utm_campaign=1058&utm_source=git)** | Somerset, KY, United States | On Site | Nov 01 |
-| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6ae91342a2a252e21942c982?utm_campaign=1058&utm_source=git)** | Stanford, KY, United States | On Site | Nov 01 |
-| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6ae91342a2a252e21942c983?utm_campaign=1058&utm_source=git)** | Lancaster, KY, United States | On Site | Nov 01 |
-| **[Continental Resources](https://clr.com/)** | **[IT Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae8e7476c51033758f44093?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 01 |
+| **[First Southern National Bank](https://www.fsnb.net)** | **[Branch Intern](https://jobright.ai/jobs/info/6ae91342a2a252e21942c983?utm_campaign=1058&utm_source=git)** | Lancaster, KY, United States | On Site | Nov 01 |
+| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6ae91346777c336eb6d696bf?utm_campaign=1058&utm_source=git)** | Somerset, KY, United States | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
