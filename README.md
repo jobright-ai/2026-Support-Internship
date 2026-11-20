@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Lutz](https://jobright.ai/jobs/info/6aff7d8cdd029d798066cff2?utm_campaign=1058&utm_source=git)** | Lutz, FL, United States | On Site | Nov 19 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6aff7d6d72b9be368529293b?utm_campaign=1058&utm_source=git)** | Strongsville, OH, United States | On Site | Nov 19 |
+| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/6aff7d5add029d798066cf5b?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 19 |
+| **[Athene](https://www.athene.com/)** | **[Annuity Product Support Intern](https://jobright.ai/jobs/info/6aff73f4c1c02a9acd80c027?utm_campaign=1058&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 19 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6aff7649865dbcc3f26fc82f?utm_campaign=1058&utm_source=git)** | Lancaster, OH, United States | On Site | Nov 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6aff763c6f4ca73dfeb445f4?utm_campaign=1058&utm_source=git)** | Columbus, OH, United States | On Site | Nov 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6aff763c6f4ca73dfeb445f5?utm_campaign=1058&utm_source=git)** | Canal Winchester, OH, United States | On Site | Nov 19 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Resident Coordination Intern](https://jobright.ai/jobs/info/6aff7460dd029d798066c3c4?utm_campaign=1058&utm_source=git)** | State College, PA, United States | On Site | Nov 19 |
 | **[Kansas Athletics](http://kansasathletics.com)** | **[Facilities and Events Intern](https://jobright.ai/jobs/info/6aff5ffb97dcc4fc8dcab707?utm_campaign=1058&utm_source=git)** | Lawrence, KS, United States | On Site | Nov 19 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6aff5ef2b88323bd981be489?utm_campaign=1058&utm_source=git)** | Westminster, CO, United States | On Site | Nov 19 |
 | **[Scout Energy Partners](https://www.scoutep.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6aff5e8daea17e3f50eafffa?utm_campaign=1058&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
@@ -80,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Information Technology Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/6a990362af954907d6574a7e?utm_campaign=1058&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 19 |
 | **[Northmarq](http://www.northmarq.com)** | **[Insurance Intern, Summer 2027](https://jobright.ai/jobs/info/6aff204faea17e3f50ead91c?utm_campaign=1058&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[Great Wolf Lodge](http://www.greatwolf.com)** | **[Summer Hospitality Internship Program](https://jobright.ai/jobs/info/6aff1f74c1c02a9acd808d15?utm_campaign=1058&utm_source=git)** | Manteca, CA, United States | On Site | Nov 19 |
-| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6aff290972b9be368528ef1b?utm_campaign=1058&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 19 |
+| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6aff290aaea17e3f50eadecf?utm_campaign=1058&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 19 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Salesforce](https://jobright.ai/jobs/info/6aa198c70ffb3d4fea6b5d4d?utm_campaign=1058&utm_source=git)** | Knoxville, TN, United States | Hybrid | Nov 19 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/6aff1667aea17e3f50ead0d5?utm_campaign=1058&utm_source=git)** | Queens County, New York, United States | On Site | Nov 19 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6ae26adb829a3bada1604d5c?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID, United States | On Site | Nov 19 |
@@ -96,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[High School Work Study - Product Support (Part-time)](https://jobright.ai/jobs/info/6ae248966679108488c499fd?utm_campaign=1058&utm_source=git)** | Olathe, KS, United States | On Site | Nov 19 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Respiratory Supply Intern / Le Bonheur / PRN / Day/Evening](https://jobright.ai/jobs/info/6ad7c9b752aa6152bb69f577?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6ac54194064da25272e15b9a?utm_campaign=1058&utm_source=git)** | Santa Maria, CA, United States | On Site | Nov 19 |
-| **[Gallagher](https://www.gallagher.com/)** | **[Technical Support/Trainer Intern](https://jobright.ai/jobs/info/6adadcb29e3e874dbfb9c913?utm_campaign=1058&utm_source=git)** | Canton, GA, United States | Hybrid | Nov 19 |
+| **[Gallagher](https://www.gallagher.com/)** | **[Technical Support/Trainer Intern](https://jobright.ai/jobs/info/6ac6e7194ac55253f5d7c844?utm_campaign=1058&utm_source=git)** | Canton, GA, United States | Hybrid | Nov 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/6ad5bfb5361c015bf0cfa231?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Nov 19 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6aa962df6d0edc2d91b09668?utm_campaign=1058&utm_source=git)** | Manitowoc, WI, United States | On Site | Nov 19 |
 | **[AMETEK](http://www.ametek.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6afec494c1c02a9acd806e3f?utm_campaign=1058&utm_source=git)** | Woodstock, NY, United States | On Site | Nov 19 |
@@ -114,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Holyoke Medical Center](http://www.holyokehealth.com)** | **[IT Intern](https://jobright.ai/jobs/info/6afe3ec3758942b6422b8c8d?utm_campaign=1058&utm_source=git)** | Holyoke, MA, United States | On Site | Nov 18 |
 | **[South32](https://www.south32.net/)** | **[Intern Technology](https://jobright.ai/jobs/info/6aff2cfa1c42ea8f6b9fdf1b?utm_campaign=1058&utm_source=git)** | Patagonia, AZ, United States | On Site | Nov 18 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Product Support Intern](https://jobright.ai/jobs/info/6aff5f4ac1c02a9acd80b50d?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 18 |
-| **[Athene](https://www.athene.com/)** | **[Annuity Product Support Intern](https://jobright.ai/jobs/info/6aff73f4c1c02a9acd80c027?utm_campaign=1058&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 18 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6aff6e0b865dbcc3f26fc444?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | **[Abbott](https://www.abbott.com)** | **[2027 IT Cancer Diagnostics Intern](https://jobright.ai/jobs/info/6aff454672b9be36852902d4?utm_campaign=1058&utm_source=git)** | Madison, WI, United States | On Site | Nov 18 |
 | **[Western National Insurance](https://wnins.com)** | **[IT Desktop Services Intern](https://jobright.ai/jobs/info/6ad245ddc4290cef14129a19?utm_campaign=1058&utm_source=git)** | Edina, MN, United States | On Site | Nov 18 |
@@ -130,31 +137,24 @@ For a complete list, click the following sortable link below:
 | **[Hoffmann Brothers](https://www.hoffmannbros.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6afcb05f94232f5ac42d0bd2?utm_campaign=1058&utm_source=git)** | Brentwood, MO, United States | On Site | Nov 18 |
 | **[First American Equipment Finance](http://faef.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6aa0891e500b01124c779a98?utm_campaign=1058&utm_source=git)** | Rochester, NY, United States | On Site | Nov 18 |
 | **[The MRG Group](https://themrggroup.com)** | **[Travel Intern](https://jobright.ai/jobs/info/6afdf2570324c008a17e2ddf?utm_campaign=1058&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 18 |
-| **[Paylocity](http://www.paylocity.com)** | **[Tech Operations Intern](https://jobright.ai/jobs/info/6aff1577c1c02a9acd80854d?utm_campaign=1058&utm_source=git)** | Pittsford, NY, United States | On Site | Nov 18 |
-| ↳ | **[Tech Operations Intern](https://jobright.ai/jobs/info/6aff14bac1c02a9acd80849b?utm_campaign=1058&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 18 |
+| **[Paylocity](http://www.paylocity.com)** | **[Tech Operations Intern](https://jobright.ai/jobs/info/6aff14bac1c02a9acd80849b?utm_campaign=1058&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 18 |
+| ↳ | **[Tech Operations Intern](https://jobright.ai/jobs/info/6aff1577c1c02a9acd80854d?utm_campaign=1058&utm_source=git)** | Pittsford, NY, United States | On Site | Nov 18 |
 | **[Analog Devices](http://www.analog.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6afdf434f170d82b3966fe32?utm_campaign=1058&utm_source=git)** | Wilmington, MA, United States | On Site | Nov 18 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - Customer Experience Analytics](https://jobright.ai/jobs/info/6af545162278454e18c3b8c9?utm_campaign=1058&utm_source=git)** | Renton, WA, United States | On Site | Nov 18 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Customer Service Analyst Intern](https://jobright.ai/jobs/info/6afdaacbcc8c7a4631ddf38e?utm_campaign=1058&utm_source=git)** | Saint Louis, MO, United States | On Site | Nov 18 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[IT Support Intern - Summer 2027](https://jobright.ai/jobs/info/6a8c8811cde3717f9e9bdb6e?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 18 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Corporate IT Intern – Summer 2027 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6afd47c1c287c018be3aa70e?utm_campaign=1058&utm_source=git)** | Dallas, TX, United States | On Site | Nov 18 |
-| **[Hatch](https://www.hatch.com)** | **[IT Service Desk Technician Intern](https://jobright.ai/jobs/info/6afc0b0d29e5a8844e65690a?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
+| **[Hatch](https://www.hatch.com)** | **[IT Service Desk Technician Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8083967d67f6359eff0?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 18 |
+| ↳ | **[IT Service Desk Technician Intern](https://jobright.ai/jobs/info/6afc0b0d29e5a8844e65690a?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | ↳ | **[IT Service Desk Technician Intern](https://jobright.ai/jobs/info/6aa83dae930bff471a2a5f75?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 18 |
-| ↳ | **[IT Service Desk Technician Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8083967d67f6359eff0?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 18 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Bilingual Customer Care Coordinator Internship (12 Month Term)](https://jobright.ai/jobs/info/6afdda430cde47528ec0f20b?utm_campaign=1058&utm_source=git)** | Oakville, ON, Canada | On Site | Nov 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a9052f0d96ad228f12608f1?utm_campaign=1058&utm_source=git)** | Norwich, NY, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8d42932f736c304f2a90d4?utm_campaign=1058&utm_source=git)** | Westhampton Beach, NY, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6c65ceacb0a61f9dbc598e?utm_campaign=1058&utm_source=git)** | Glen Allen, VA, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a911f08a198864866763dcb?utm_campaign=1058&utm_source=git)** | Little Rock, AR, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a7ea714179e4f7b7e8d808b?utm_campaign=1058&utm_source=git)** | Jacksonville, NC, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a911ee7a198864866763dba?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a85fe662f4f0014cae27739?utm_campaign=1058&utm_source=git)** | New Orleans, LA, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8d42bea5639a48103257d2?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a911a48d96ad228f1263e79?utm_campaign=1058&utm_source=git)** | Plattsburgh, NY, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a911efe0bd89e205d24d05a?utm_campaign=1058&utm_source=git)** | Yonkers, NY, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8fb6138ffa38557e6c9f74?utm_campaign=1058&utm_source=git)** | Wichita, KS, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a7ecee119ce4e6e9d934605?utm_campaign=1058&utm_source=git)** | El Paso, TX, United States | On Site | Nov 18 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a92fb0e9864261ccd2a18ff?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6dcf5dc56c0956e8ada333?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6aa57400930bff471a29ec92?utm_campaign=1058&utm_source=git)** | Goldsboro, NC, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6227ef846162391c934228?utm_campaign=1058&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a72eab5adfe134034cca5f7?utm_campaign=1058&utm_source=git)** | Pearland, TX, United States | On Site | Nov 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a911a59d96ad228f1263e7c?utm_campaign=1058&utm_source=git)** | Coachella, CA, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a97ea4269d7730385d6cded?utm_campaign=1058&utm_source=git)** | Germantown, TN, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a7f807ab56bea5779c0c2a8?utm_campaign=1058&utm_source=git)** | Wake Forest, North Carolina, United States | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a6c26a7ca1f9338465fe15d?utm_campaign=1058&utm_source=git)** | Leland, NC, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8d42932f736c304f2a90d4?utm_campaign=1058&utm_source=git)** | Westhampton Beach, NY, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8d1a9bd34f700f87fd396e?utm_campaign=1058&utm_source=git)** | Albany, Oregon, United States | On Site | Nov 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a8299b3379c304e892f2f34?utm_campaign=1058&utm_source=git)** | Sun City West, AZ, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
